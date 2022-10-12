@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub (das ist ein test)
+# :wave: The Basics of GitHub; Das ist ein Test
 
 ## 🤓 Course overview and learning outcomes 
 
